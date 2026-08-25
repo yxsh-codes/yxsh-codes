@@ -16,17 +16,19 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"></a>
-<a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email"></a>
-<a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="32" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="32" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/yxsh-codes"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a> <a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yxsh-codes&style=flat&color=39d353&label=profile+views" alt="profile views">
+
+</div>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=yxsh-codes&style=flat&color=39d353&label=profile+views" height="22" alt="profile views">
 
 </div>
-
 
 ## `~/` whoami
 
