@@ -16,14 +16,14 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+<a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
+<a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="28" alt="Codeforces"></a>
+<a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" alt="LeetCode"></a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=yxsh-codes&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=yxsh-codes&style=flat&color=39d353&label=profile+views" height="22" alt="profile views">
 
 </div>
 
@@ -39,7 +39,6 @@ Hi, I'm **Yash Chowrasia** a problem solver who loves coding and building things
 I enjoy turning complex ideas into simple, scalable technical solutions.
 
 - Currently building: **[GenAI](https://github.com/yxsh-codes/langchain)** and **[AgenticAI](https://github.com/yxsh-codes/langchain)** Workflows
-<!-- - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)** -->
 - Learning: **GenAI + AgenticAI**
 - Fun fact: **I dive deepest into code and turn theoretical brainstorms into working solutions**
 
