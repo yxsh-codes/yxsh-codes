@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values (0-100). 5-8 axes reads best.",
+  "axes": [
+    {
+      "label": "GenAI / LLMs",
+      "value": 87
+    },
+    {
+      "label": "LangChain & RAG",
+      "value": 85
+    },
+    {
+      "label": "DSA / CP",
+      "value": 85
+    },
+    {
+      "label": "Python",
+      "value": 75
+    },
+    {
+      "label": "C / C++",
+      "value": 86
+    },
+    {
+      "label": "Flutter & Dart",
+      "value": 78
+    },
+    {
+      "label": "Backend / DB",
+      "value": 43
+    }
+  ]
+}
