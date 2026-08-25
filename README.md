@@ -4,7 +4,7 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="320" alt="Yash Chowrasia, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="500" alt="Yash Chowrasia, rendered as a dot matrix">
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinlogoColor=white" alt="LinkedIn"></a>
 <a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> -->
 <a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
@@ -32,7 +32,7 @@
 
 ```console
 $ cat about.txt
-
+```
 
 Hi, I'm **Yash Chowrasia** a problem solver who loves coding and building things from the ground up.
 I enjoy turning complex ideas into simple, scalable technical solutions.
@@ -41,7 +41,6 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 <!-- - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)** -->
 - Learning: **GenAI + AgenticAI**
 - Fun fact: **I dive deepest into code and turn theoretical brainstorms into working solutions**
-```
 
 <br>
 
@@ -145,40 +144,31 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/yxsh-codes/ai-resume-analyser">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ai-resume-analyser-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-ai-resume-analyser-light.svg">
+      <img src="assets/card-ai-resume-analyser-dark.svg" width="420" alt="ai-resume-analyser">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/yxsh-codes/chat-application">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-chat-application-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-chat-application-light.svg">
+      <img src="assets/card-chat-application-dark.svg" width="420" alt="chat-application">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+<td width="50%" colspan="2" align="center">
+  <a href="https://github.com/yxsh-codes/langchain">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-langchain-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-langchain-light.svg">
+      <img src="assets/card-langchain-dark.svg" width="420" alt="langchain">
     </picture>
   </a>
 </td>
@@ -187,12 +177,11 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 
 <sub>
 
-| project | live | stack |
+| project | live / demo | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[ai-resume-analyser](https://github.com/yxsh-codes/ai-resume-analyser)** | [github.com/yxsh-codes/ai-resume-analyser](https://github.com/yxsh-codes/ai-resume-analyser) | `Python` `Streamlit` `LLMs` |
+| **[chat-application](https://github.com/yxsh-codes/chat-application)** | [github.com/yxsh-codes/chat-application](https://github.com/yxsh-codes/chat-application) | `Node.js` `Socket.io` `JavaScript` |
+| **[langchain](https://github.com/yxsh-codes/langchain)** | [github.com/yxsh-codes/langchain](https://github.com/yxsh-codes/langchain) | `Python` `LangChain` `RAG` |
 
 </sub>
 
