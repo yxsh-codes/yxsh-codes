@@ -24,12 +24,6 @@
 
 </div>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=yxsh-codes&style=flat&color=39d353&label=profile+views" height="22" alt="profile views">
-
-</div>
-
 ## `~/` whoami
 
 ```console
