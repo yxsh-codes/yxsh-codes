@@ -16,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # ------------------------------------------------------------------ #
-      # The 3D isometric contribution calendar (the one from the inspo)
+      # The 3D isometric contribution calendar
       # ------------------------------------------------------------------ #
       - name: Isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: gargibhardwaj24
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: yxsh-codes
           filename: assets/metrics.isocalendar.svg
           base: ""
           config_timezone: Asia/Kolkata
@@ -30,13 +30,13 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       # ------------------------------------------------------------------ #
-      # Coding habits: commits per hour of day, per weekday, language activity
+      # Coding habits
       # ------------------------------------------------------------------ #
       - name: Coding habits
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: gargibhardwaj24
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: yxsh-codes
           filename: assets/metrics.habits.svg
           base: ""
           config_timezone: Asia/Kolkata
@@ -48,13 +48,13 @@ jobs:
           plugin_habits_trim: yes
 
       # ------------------------------------------------------------------ #
-      # Language breakdown (bytes-weighted, recent-activity weighted)
+      # Language breakdown
       # ------------------------------------------------------------------ #
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: gargibhardwaj24
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: yxsh-codes
           filename: assets/metrics.languages.svg
           base: ""
           config_timezone: Asia/Kolkata
@@ -65,14 +65,13 @@ jobs:
           plugin_languages_sections: most-used
 
       # ------------------------------------------------------------------ #
-      # Achievement badges - the self-hosted replacement for
-      # github-profile-trophy, whose public instance returns 402 (out of quota)
+      # Achievement badges
       # ------------------------------------------------------------------ #
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: gargibhardwaj24
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: yxsh-codes
           filename: assets/metrics.achievements.svg
           base: ""
           config_timezone: Asia/Kolkata
