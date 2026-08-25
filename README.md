@@ -16,10 +16,10 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
-<a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
-<a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="28" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/yash-chowrasia-5b2021341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"></a>
+<a href="mailto:yashchowrasia0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email"></a>
+<a href="https://codeforces.com/profile/yxshcodes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="32" alt="Codeforces"></a>
+<a href="https://leetcode.com/u/Yxshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="32" alt="LeetCode"></a>
 
 <br>
 
@@ -27,7 +27,6 @@
 
 </div>
 
----
 
 ## `~/` whoami
 
@@ -53,8 +52,6 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 
 </div>
-
----
 
 <div align="center">
 
