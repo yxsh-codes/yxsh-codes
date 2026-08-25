@@ -32,7 +32,7 @@
 
 ```console
 $ cat about.txt
-```
+
 
 Hi, I'm **Yash Chowrasia** a problem solver who loves coding and building things from the ground up.
 I enjoy turning complex ideas into simple, scalable technical solutions.
@@ -41,6 +41,7 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 <!-- - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)** -->
 - Learning: **GenAI + AgenticAI**
 - Fun fact: **I dive deepest into code and turn theoretical brainstorms into working solutions**
+```
 
 <br>
 
