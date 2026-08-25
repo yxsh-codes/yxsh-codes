@@ -43,9 +43,14 @@ I enjoy turning complex ideas into simple, scalable technical solutions.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,firebase,mongodb,git,github,vscode,html,css&perline=11" alt="tech stack">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,html,css,flutter,firebase,mongodb,git,github,vscode&perline=6" alt="tech stack" />
+
+<br><br>
+
+<a href="#"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain"></a>
+<a href="#"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face"></a>
 
 </div>
 
